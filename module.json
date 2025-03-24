@@ -1,0 +1,21 @@
+{
+  "name": "onceupon-sheet",
+  "title": "Once Upon Character Sheet",
+  "description": "A custom character sheet for the Once Upon RPG, made as a module.",
+  "version": "0.1.0",
+  "author": "SirJacob47",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "scripts": ["module/onceupon.js"],
+  "styles": ["module/styles/onceupon.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "https://github.com/SirJacob47/once-upon-foundry-module",
+  "manifest": "https://raw.githubusercontent.com/SirJacob47/once-upon-foundry-module/main/module.json",
+  "download": "https://github.com/SirJacob47/once-upon-foundry-module/archive/refs/heads/main.zip"
+}
